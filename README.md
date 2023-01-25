@@ -1,0 +1,1 @@
+# An App to send emails with news
